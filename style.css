@@ -1,0 +1,20 @@
+h1{
+    background: aqua;
+    display : flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+a:link{
+    color: burlywood;
+}
+a:visited{
+    color: cadetblue;
+}
+.grid {
+ background-color: blue;
+ display : flex;
+ flex-direction: row;
+ justify-content : space-between;
+ flex-wrap : nowrap;
+ 
+}
